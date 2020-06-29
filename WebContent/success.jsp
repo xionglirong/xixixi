@@ -7,7 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>你好！</h1>
-	<p>新增加的内容</p>
+	<h1>成功页面</h1>
 </body>
 </html>
