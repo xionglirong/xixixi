@@ -10,6 +10,10 @@
 	<h1>你好！</h1>
 	<p>新增加的内容</p>
 	<p>在网页上增加内容</p>
+<<<<<<< HEAD
 	<div style="background-color:pink;">粉色</div>
+=======
+	<p>新增加的冲突内容</p>
+>>>>>>> branch 'master' of https://github.com/xionglirong/xixixi.git
 </body>
 </html>
